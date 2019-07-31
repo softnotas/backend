@@ -1,7 +1,8 @@
 
 - Authors - 
-  [David Calderon](https://github.com/xmashi)
-  [Julio Vásquez](https://github.com/DarKPhuRioN)
+  * **David Calderon** - *Initial work* - [ [GitHub - xmashi] ](https://github.com/xmashi)
+  
+  * **Julio Vásquez** - *Initial work* -[ [GitHub - DarKPhuRioN] ](https://github.com/DarKPhuRioN)
 
 
 ## License
